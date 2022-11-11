@@ -1,0 +1,48 @@
+button{
+    background-color:rgb(11,11,69);
+    border-color:rgb(11,11,69);
+    color:white;
+    border:1px outset rgb(11,11,69);
+    height:45px;
+    width:130px;
+}
+li{
+    display:inline-block;  
+    list-style:none;
+    width:auto;
+    justify-content:center;
+}
+a[href]{
+    text-decoration:none;
+    padding:1px;    
+}
+h1,ul{
+    display:inline-block;
+}
+
+.info{
+    font-size:22px;
+   text-align: center;
+}
+.details{
+    font-size:18px;
+   font-family:'Times New Roman', Times, serif;
+   float:left;
+   width:250px;
+   height:550px;
+   margin:20px;
+   background-color:rgb(11,11,69);
+   color:white;
+}
+.details1{
+    float: left; 
+}
+.info1{
+    margin:75px 0px 0px 450px;
+    font-weight: 400;
+}
+.name{
+    margin:5px 0px 0px 410px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
